@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Affinity Infinity Three",
-  "version": "1.0",
+  "version": "1.1",
   "author": "8brickdmg",
   "files": [
     {
@@ -687,6 +687,36 @@
     {
       "projectID": 226447,
       "fileID": 2477566,
+      "required": true
+    },
+    {
+      "projectID": 237167,
+      "fileID": 2663884,
+      "required": true
+    },
+    {
+      "projectID": 237102,
+      "fileID": 2666228,
+      "required": true
+    },
+    {
+      "projectID": 271204,
+      "fileID": 2489397,
+      "required": true
+    },
+    {
+      "projectID": 261270,
+      "fileID": 2517377,
+      "required": true
+    },
+    {
+      "projectID": 243315,
+      "fileID": 2614896,
+      "required": true
+    },
+    {
+      "projectID": 286284,
+      "fileID": 2622113,
       "required": true
     }
   ],

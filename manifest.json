@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Affinity Infinity Three",
-  "version": "1.1",
+  "version": "1.2",
   "author": "8brickdmg",
   "files": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 223094,
-      "fileID": 2657195,
+      "fileID": 2670367,
       "required": true
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "projectID": 224712,
-      "fileID": 2643728,
+      "fileID": 2667771,
       "required": true
     },
     {
@@ -165,18 +165,8 @@
       "required": true
     },
     {
-      "projectID": 242818,
-      "fileID": 2618630,
-      "required": true
-    },
-    {
-      "projectID": 258426,
-      "fileID": 2661099,
-      "required": true
-    },
-    {
       "projectID": 59816,
-      "fileID": 2658033,
+      "fileID": 2667184,
       "required": true
     },
     {
@@ -216,7 +206,7 @@
     },
     {
       "projectID": 243363,
-      "fileID": 2655877,
+      "fileID": 2670279,
       "required": true
     },
     {
@@ -231,7 +221,7 @@
     },
     {
       "projectID": 258205,
-      "fileID": 2663755,
+      "fileID": 2668363,
       "required": true
     },
     {
@@ -306,7 +296,7 @@
     },
     {
       "projectID": 242998,
-      "fileID": 2650029,
+      "fileID": 2669662,
       "required": true
     },
     {
@@ -546,7 +536,7 @@
     },
     {
       "projectID": 237749,
-      "fileID": 2666002,
+      "fileID": 2668627,
       "required": true
     },
     {
@@ -611,12 +601,12 @@
     },
     {
       "projectID": 312077,
-      "fileID": 2663469,
+      "fileID": 2670169,
       "required": true
     },
     {
       "projectID": 306058,
-      "fileID": 2658460,
+      "fileID": 2666879,
       "required": true
     },
     {
@@ -691,12 +681,12 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2663884,
+      "fileID": 2670449,
       "required": true
     },
     {
       "projectID": 237102,
-      "fileID": 2666228,
+      "fileID": 2670454,
       "required": true
     },
     {
@@ -717,6 +707,56 @@
     {
       "projectID": 286284,
       "fileID": 2622113,
+      "required": true
+    },
+    {
+      "projectID": 313533,
+      "fileID": 2670304,
+      "required": true
+    },
+    {
+      "projectID": 308792,
+      "fileID": 2669027,
+      "required": true
+    },
+    {
+      "projectID": 225605,
+      "fileID": 2489549,
+      "required": true
+    },
+    {
+      "projectID": 225604,
+      "fileID": 2489566,
+      "required": true
+    },
+    {
+      "projectID": 313146,
+      "fileID": 2668213,
+      "required": true
+    },
+    {
+      "projectID": 312688,
+      "fileID": 2666421,
+      "required": true
+    },
+    {
+      "projectID": 275300,
+      "fileID": 2486523,
+      "required": true
+    },
+    {
+      "projectID": 283846,
+      "fileID": 2512512,
+      "required": true
+    },
+    {
+      "projectID": 282648,
+      "fileID": 2626747,
+      "required": true
+    },
+    {
+      "projectID": 293082,
+      "fileID": 2557401,
       "required": true
     }
   ],
